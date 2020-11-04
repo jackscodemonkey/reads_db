@@ -1,0 +1,11 @@
+ARRAY_NAME="Greenplum"
+MACHINE_LIST_FILE=/home/gpadmin/hostfile.txt
+SEG_PREFIX=gpseg
+PORT_BASE=50000
+declare -a DATA_DIRECTORY=(/data/primary /data/primary )
+MASTER_HOSTNAME=gpdbsne
+MASTER_DIRECTORY=/data/master
+MASTER_PORT=5432
+TRUSTED_SHELL=ssh
+CHECK_POINT_SEGMENTS=8
+ENCODING=UNICODE
