@@ -21,7 +21,7 @@ setup(
     packages=find_packages(),
     url='https://github.com/jackscodemonkey/reads_db',
     license='Closed Source',
-    author='BCHydro',
+    author='bch',
     description="Raw Reads Database.",
     long_description=long_description,
     long_description_content_type="text/x-rst",
