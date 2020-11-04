@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Reads DB'
-copyright = '2020, BC Hydro EAS'
-author = 'BC Hydro EAS'
+copyright = '2020, BC H EAS'
+author = 'BC H EAS'
 
 
 # -- General configuration ---------------------------------------------------
