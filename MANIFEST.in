@@ -1,1 +1,4 @@
 src/*
+docs/make.bat
+docs/Makefile
+docs/source/*
